@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/marketing-bevrages-react-website/static/css/main.8e23b6de.chunk.css",
+    "main.js": "/marketing-bevrages-react-website/static/js/main.4e928a0e.chunk.js",
+    "main.js.map": "/marketing-bevrages-react-website/static/js/main.4e928a0e.chunk.js.map",
+    "runtime-main.js": "/marketing-bevrages-react-website/static/js/runtime-main.4aa93c84.js",
+    "runtime-main.js.map": "/marketing-bevrages-react-website/static/js/runtime-main.4aa93c84.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/marketing-bevrages-react-website/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7a81bc5c.chunk.js": "/marketing-bevrages-react-website/static/js/2.7a81bc5c.chunk.js",
+    "static/js/2.7a81bc5c.chunk.js.map": "/marketing-bevrages-react-website/static/js/2.7a81bc5c.chunk.js.map",
+    "index.html": "/marketing-bevrages-react-website/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/marketing-bevrages-react-website/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.8e23b6de.chunk.css.map": "/marketing-bevrages-react-website/static/css/main.8e23b6de.chunk.css.map",
+    "static/js/2.7a81bc5c.chunk.js.LICENSE.txt": "/marketing-bevrages-react-website/static/js/2.7a81bc5c.chunk.js.LICENSE.txt",
+    "static/media/caffeine.f34e5a91.jpg": "/marketing-bevrages-react-website/static/media/caffeine.f34e5a91.jpg",
+    "static/media/juice.14e788c3.jpg": "/marketing-bevrages-react-website/static/media/juice.14e788c3.jpg",
+    "static/media/logo.1fc90c14.png": "/marketing-bevrages-react-website/static/media/logo.1fc90c14.png",
+    "static/media/user.f629879c.png": "/marketing-bevrages-react-website/static/media/user.f629879c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4aa93c84.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7a81bc5c.chunk.js",
+    "static/css/main.8e23b6de.chunk.css",
+    "static/js/main.4e928a0e.chunk.js"
+  ]
+}
