@@ -3,11 +3,15 @@ import 'bootstrap/dist/css/bootstrap.css';
 import Carousel from 'react-bootstrap/Carousel';
 import Caffeine from './../../assets/caffeine.jpg';
 import NoCaffeine from './../../assets/juice.jpg';
+import Card from '../Card/index';
+// import AboutUs from '../AboutUs/index'
 import './styles.scss'
 
 
 const Directory = props => {
-    return ( <div className = "directory" >
+    return ( 
+    
+        <div className = "directory" >
         <div className = "wrap" >
 
         <Carousel interval={1000} className = "img-size" >
@@ -16,8 +20,8 @@ const Directory = props => {
         src = "https://mlv6ejvroukd.i.optimole.com/BQGoE9o-ve3lLPhl/w:2000/h:1009/q:auto/https://franklinandsons.co.uk/wp-content/uploads/2021/02/FRANKLIN-SONS-Homepage-Carousel-Banner-v5-A-scaled-1.jpg"
         alt = "First slide" />
         <Carousel.Caption >
-        <h3> First slide label </h3> 
-        <p> Nulla vitae elit libero, a pharetra augue mollis interdum. </p> 
+        <h3> One stop shop for all sorts of beverages. </h3> 
+
         </Carousel.Caption> 
         </Carousel.Item> 
         <Carousel.Item>
@@ -26,8 +30,7 @@ const Directory = props => {
         alt = "Second slide" />
 
         <Carousel.Caption>
-        <h3> Second slide label </h3> 
-        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        <h3>  All kinds of drinks at your Door-Step</h3> 
          </Carousel.Caption>
           </Carousel.Item> 
           <Carousel.Item >
@@ -65,25 +68,11 @@ const Directory = props => {
                           Cold Drinks
                              </a> */
         } 
-        <div className = "item"
-        style = {
-            {
-                backgroundImage: `url(${Caffeine})`
-            }
-        } >
-        <a>
-        Shop Caffeinated Drinks </a> 
-        </div> 
-        <div className = "item"
-        style = {
-            {
-                backgroundImage: `url(${NoCaffeine})`
-            }
-        } >
-        <a>
-        Shop non Caffeined Drinks </a> 
-        </div>
+        <Card />
 
+       
+      
+      
     
 
         </div> 

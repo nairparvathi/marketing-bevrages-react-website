@@ -1,6 +1,7 @@
 .header {
   height: 6.5rem;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  background-color: black;
 
   .wrap {
     position: relative;
@@ -50,7 +51,7 @@
             font-size: 1.8rem;
             line-height: 6.5rem;
             vertical-align: middle;
-            color: black;
+            color: rgb(255, 255, 255);
             text-decoration: none;
             text-transform: uppercase;
             cursor: pointer;
@@ -86,7 +87,7 @@
         span {
           font-size: 1.8rem;
           line-height: 1;
-          color: black;
+          color: rgb(255, 255, 255);
           text-decoration: none;
           text-transform: uppercase;
           cursor: pointer;
